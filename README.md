@@ -28,7 +28,7 @@ n8n + Claude API + Gmail. Reduces manual triage time by 80%.
 ### Connect
 
 - LinkedIn: [Natthapakorn Suksamran](https://linkedin.com/in/[custom-url])
-- Email: [your-email]
+- Email: [natthapokorn.s.1107@gmail.com]
 
 ---
 
